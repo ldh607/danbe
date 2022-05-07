@@ -1,0 +1,1 @@
+I have made a shader with the new Shader Graph in Unity 2018 Beta included in this Asset, it is usable just in Unity 2018 so the default option still is the legacy shader.

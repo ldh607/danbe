@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 92dcc349b613e4b42aaf2949bc4ac94b
+timeCreated: 1572972879
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Table 015 Brown
+    100002: Table 015 Dark Brown
+    100004: Table 015 Light Wood
+    100006: Table 015 White
+    100008: Table 016 Brown
+    100010: Table 016 Dark Brown
+    100012: Table 016 Light Wood
+    100014: Table 016 White
+    100016: Table 017 Brown
+    100018: Table 017 Dark Brown
+    100020: Table 017 Light Wood
+    100022: Table 017 White
+    100024: //RootNode
+    400000: Table 015 Brown
+    400002: Table 015 Dark Brown
+    400004: Table 015 Light Wood
+    400006: Table 015 White
+    400008: Table 016 Brown
+    400010: Table 016 Dark Brown
+    400012: Table 016 Light Wood
+    400014: Table 016 White
+    400016: Table 017 Brown
+    400018: Table 017 Dark Brown
+    400020: Table 017 Light Wood
+    400022: Table 017 White
+    400024: //RootNode
+    2300000: Table 015 Brown
+    2300002: Table 015 Dark Brown
+    2300004: Table 015 Light Wood
+    2300006: Table 015 White
+    2300008: Table 016 Brown
+    2300010: Table 016 Dark Brown
+    2300012: Table 016 Light Wood
+    2300014: Table 016 White
+    2300016: Table 017 Brown
+    2300018: Table 017 Dark Brown
+    2300020: Table 017 Light Wood
+    2300022: Table 017 White
+    3300000: Table 015 Brown
+    3300002: Table 015 Dark Brown
+    3300004: Table 015 Light Wood
+    3300006: Table 015 White
+    3300008: Table 016 Brown
+    3300010: Table 016 Dark Brown
+    3300012: Table 016 Light Wood
+    3300014: Table 016 White
+    3300016: Table 017 Brown
+    3300018: Table 017 Dark Brown
+    3300020: Table 017 Light Wood
+    3300022: Table 017 White
+    4300000: Table 017 Dark Brown
+    4300002: Table 016 Dark Brown
+    4300004: Table 016 Brown
+    4300006: Table 017 Brown
+    4300008: Table 017 Light Wood
+    4300010: Table 016 Light Wood
+    4300012: Table 016 White
+    4300014: Table 017 White
+    4300016: Table 015 Dark Brown
+    4300018: Table 015 Brown
+    4300020: Table 015 Light Wood
+    4300022: Table 015 White
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

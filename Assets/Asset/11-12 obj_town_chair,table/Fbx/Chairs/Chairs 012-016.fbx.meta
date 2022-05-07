@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: f4be3786046c616469c28451e18e35ea
+timeCreated: 1572984458
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Chair 012 Black
+    100002: Chair 012 Blue
+    100004: Chair 012 Brown
+    100006: Chair 012 Green
+    100008: Chair 012 Grey
+    100010: Chair 012 Red
+    100012: Chair 012 White
+    100014: Chair 012 Yellow
+    100016: Chair 013 Black
+    100018: Chair 013 Blue
+    100020: Chair 013 Brown
+    100022: Chair 013 Green
+    100024: Chair 013 Grey
+    100026: Chair 013 Red
+    100028: Chair 013 White
+    100030: Chair 013 Yellow
+    100032: Chair 014 Black
+    100034: Chair 014 Blue
+    100036: Chair 014 Brown
+    100038: Chair 014 Green
+    100040: Chair 014 Grey
+    100042: Chair 014 Red
+    100044: Chair 014 White
+    100046: Chair 014 Yellow
+    100048: Chair 015  a.007
+    100050: Chair 015 Black
+    100052: Chair 015 Blue
+    100054: Chair 015 Brown
+    100056: Chair 015 Grey
+    100058: Chair 015 Red
+    100060: Chair 015 White
+    100062: Chair 015 Yellow
+    100064: Chair 016 Black
+    100066: Chair 016 Blue
+    100068: Chair 016 Brown
+    100070: Chair 016 Green
+    100072: Chair 016 Grey
+    100074: Chair 016 Red
+    100076: Chair 016 White
+    100078: Chair 016 Yellow
+    100080: //RootNode
+    100082: Chair 015 Green
+    400000: Chair 012 Black
+    400002: Chair 012 Blue
+    400004: Chair 012 Brown
+    400006: Chair 012 Green
+    400008: Chair 012 Grey
+    400010: Chair 012 Red
+    400012: Chair 012 White
+    400014: Chair 012 Yellow
+    400016: Chair 013 Black
+    400018: Chair 013 Blue
+    400020: Chair 013 Brown
+    400022: Chair 013 Green
+    400024: Chair 013 Grey
+    400026: Chair 013 Red
+    400028: Chair 013 White
+    400030: Chair 013 Yellow
+    400032: Chair 014 Black
+    400034: Chair 014 Blue
+    400036: Chair 014 Brown
+    400038: Chair 014 Green
+    400040: Chair 014 Grey
+    400042: Chair 014 Red
+    400044: Chair 014 White
+    400046: Chair 014 Yellow
+    400048: Chair 015  a.007
+    400050: Chair 015 Black
+    400052: Chair 015 Blue
+    400054: Chair 015 Brown
+    400056: Chair 015 Grey
+    400058: Chair 015 Red
+    400060: Chair 015 White
+    400062: Chair 015 Yellow
+    400064: Chair 016 Black
+    400066: Chair 016 Blue
+    400068: Chair 016 Brown
+    400070: Chair 016 Green
+    400072: Chair 016 Grey
+    400074: Chair 016 Red
+    400076: Chair 016 White
+    400078: Chair 016 Yellow
+    400080: //RootNode
+    400082: Chair 015 Green
+    2300000: Chair 012 Black
+    2300002: Chair 012 Blue
+    2300004: Chair 012 Brown
+    2300006: Chair 012 Green
+    2300008: Chair 012 Grey
+    2300010: Chair 012 Red
+    2300012: Chair 012 White
+    2300014: Chair 012 Yellow
+    2300016: Chair 013 Black
+    2300018: Chair 013 Blue
+    2300020: Chair 013 Brown
+    2300022: Chair 013 Green
+    2300024: Chair 013 Grey
+    2300026: Chair 013 Red
+    2300028: Chair 013 White
+    2300030: Chair 013 Yellow
+    2300032: Chair 014 Black
+    2300034: Chair 014 Blue
+    2300036: Chair 014 Brown
+    2300038: Chair 014 Green
+    2300040: Chair 014 Grey
+    2300042: Chair 014 Red
+    2300044: Chair 014 White
+    2300046: Chair 014 Yellow
+    2300048: Chair 015  a.007
+    2300050: Chair 015 Black
+    2300052: Chair 015 Blue
+    2300054: Chair 015 Brown
+    2300056: Chair 015 Grey
+    2300058: Chair 015 Red
+    2300060: Chair 015 White
+    2300062: Chair 015 Yellow
+    2300064: Chair 016 Black
+    2300066: Chair 016 Blue
+    2300068: Chair 016 Brown
+    2300070: Chair 016 Green
+    2300072: Chair 016 Grey
+    2300074: Chair 016 Red
+    2300076: Chair 016 White
+    2300078: Chair 016 Yellow
+    2300080: Chair 015 Green
+    3300000: Chair 012 Black
+    3300002: Chair 012 Blue
+    3300004: Chair 012 Brown
+    3300006: Chair 012 Green
+    3300008: Chair 012 Grey
+    3300010: Chair 012 Red
+    3300012: Chair 012 White
+    3300014: Chair 012 Yellow
+    3300016: Chair 013 Black
+    3300018: Chair 013 Blue
+    3300020: Chair 013 Brown
+    3300022: Chair 013 Green
+    3300024: Chair 013 Grey
+    3300026: Chair 013 Red
+    3300028: Chair 013 White
+    3300030: Chair 013 Yellow
+    3300032: Chair 014 Black
+    3300034: Chair 014 Blue
+    3300036: Chair 014 Brown
+    3300038: Chair 014 Green
+    3300040: Chair 014 Grey
+    3300042: Chair 014 Red
+    3300044: Chair 014 White
+    3300046: Chair 014 Yellow
+    3300048: Chair 015  a.007
+    3300050: Chair 015 Black
+    3300052: Chair 015 Blue
+    3300054: Chair 015 Brown
+    3300056: Chair 015 Grey
+    3300058: Chair 015 Red
+    3300060: Chair 015 White
+    3300062: Chair 015 Yellow
+    3300064: Chair 016 Black
+    3300066: Chair 016 Blue
+    3300068: Chair 016 Brown
+    3300070: Chair 016 Green
+    3300072: Chair 016 Grey
+    3300074: Chair 016 Red
+    3300076: Chair 016 White
+    3300078: Chair 016 Yellow
+    3300080: Chair 015 Green
+    4300000: Chair 014 Green
+    4300002: Chair 016 Green
+    4300004: Chair 013 Green
+    4300006: Chair 012 Green
+    4300008: Chair 015  a.007
+    4300010: Chair 015 Red
+    4300012: Chair 012 Red
+    4300014: Chair 013 Red
+    4300016: Chair 016 Red
+    4300018: Chair 014 Red
+    4300020: Chair 014 Blue
+    4300022: Chair 016 Blue
+    4300024: Chair 013 Blue
+    4300026: Chair 012 Blue
+    4300028: Chair 015 Blue
+    4300030: Chair 015 Yellow
+    4300032: Chair 012 Yellow
+    4300034: Chair 013 Yellow
+    4300036: Chair 016 Yellow
+    4300038: Chair 014 Yellow
+    4300040: Chair 014 Brown
+    4300042: Chair 016 Brown
+    4300044: Chair 013 Brown
+    4300046: Chair 012 Brown
+    4300048: Chair 015 Brown
+    4300050: Chair 015 Black
+    4300052: Chair 012 Black
+    4300054: Chair 013 Black
+    4300056: Chair 016 Black
+    4300058: Chair 014 Black
+    4300060: Chair 014 Grey
+    4300062: Chair 016 Grey
+    4300064: Chair 013 Grey
+    4300066: Chair 012 Grey
+    4300068: Chair 015 Grey
+    4300070: Chair 015 White
+    4300072: Chair 012 White
+    4300074: Chair 013 White
+    4300076: Chair 016 White
+    4300078: Chair 014 White
+    4300080: Chair 015 Green
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 896bc66ce31f1254b9b17589b7e01eca
+timeCreated: 1572427199
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Footstool 01 Black
+    100002: Footstool 01 Blue
+    100004: Footstool 01 Brown
+    100006: Footstool 01 Green
+    100008: Footstool 01 Grey
+    100010: Footstool 01 Red
+    100012: Footstool 01 White
+    100014: Footstool 01 Yellow
+    100016: Sofa 01 Black
+    100018: Sofa 01 Blue
+    100020: Sofa 01 Brown
+    100022: Sofa 01 Green
+    100024: Sofa 01 Grey
+    100026: Sofa 01 Red
+    100028: Sofa 01 White
+    100030: Sofa 01 Yellow
+    100032: Sofa 02 Black
+    100034: Sofa 02 Blue
+    100036: Sofa 02 Brown
+    100038: Sofa 02 Green
+    100040: Sofa 02 Grey
+    100042: Sofa 02 Red
+    100044: Sofa 02 White
+    100046: Sofa 02 Yellow
+    100048: Sofa 03 Black
+    100050: Sofa 03 Blue
+    100052: Sofa 03 Brown
+    100054: Sofa 03 Green
+    100056: Sofa 03 Grey
+    100058: Sofa 03 Red
+    100060: Sofa 03 s
+    100062: Sofa 03 White
+    100064: Sofa 03 Yellow
+    100066: //RootNode
+    400000: Footstool 01 Black
+    400002: Footstool 01 Blue
+    400004: Footstool 01 Brown
+    400006: Footstool 01 Green
+    400008: Footstool 01 Grey
+    400010: Footstool 01 Red
+    400012: Footstool 01 White
+    400014: Footstool 01 Yellow
+    400016: Sofa 01 Black
+    400018: Sofa 01 Blue
+    400020: Sofa 01 Brown
+    400022: Sofa 01 Green
+    400024: Sofa 01 Grey
+    400026: Sofa 01 Red
+    400028: Sofa 01 White
+    400030: Sofa 01 Yellow
+    400032: Sofa 02 Black
+    400034: Sofa 02 Blue
+    400036: Sofa 02 Brown
+    400038: Sofa 02 Green
+    400040: Sofa 02 Grey
+    400042: Sofa 02 Red
+    400044: Sofa 02 White
+    400046: Sofa 02 Yellow
+    400048: Sofa 03 Black
+    400050: Sofa 03 Blue
+    400052: Sofa 03 Brown
+    400054: Sofa 03 Green
+    400056: Sofa 03 Grey
+    400058: Sofa 03 Red
+    400060: Sofa 03 s
+    400062: Sofa 03 White
+    400064: Sofa 03 Yellow
+    400066: //RootNode
+    2300000: Footstool 01 Black
+    2300002: Footstool 01 Blue
+    2300004: Footstool 01 Brown
+    2300006: Footstool 01 Green
+    2300008: Footstool 01 Grey
+    2300010: Footstool 01 Red
+    2300012: Footstool 01 White
+    2300014: Footstool 01 Yellow
+    2300016: Sofa 01 Black
+    2300018: Sofa 01 Blue
+    2300020: Sofa 01 Brown
+    2300022: Sofa 01 Green
+    2300024: Sofa 01 Grey
+    2300026: Sofa 01 Red
+    2300028: Sofa 01 White
+    2300030: Sofa 01 Yellow
+    2300032: Sofa 02 Black
+    2300034: Sofa 02 Blue
+    2300036: Sofa 02 Brown
+    2300038: Sofa 02 Green
+    2300040: Sofa 02 Grey
+    2300042: Sofa 02 Red
+    2300044: Sofa 02 White
+    2300046: Sofa 02 Yellow
+    2300048: Sofa 03 Black
+    2300050: Sofa 03 Blue
+    2300052: Sofa 03 Brown
+    2300054: Sofa 03 Green
+    2300056: Sofa 03 Grey
+    2300058: Sofa 03 Red
+    2300060: Sofa 03 s
+    2300062: Sofa 03 White
+    2300064: Sofa 03 Yellow
+    3300000: Footstool 01 Black
+    3300002: Footstool 01 Blue
+    3300004: Footstool 01 Brown
+    3300006: Footstool 01 Green
+    3300008: Footstool 01 Grey
+    3300010: Footstool 01 Red
+    3300012: Footstool 01 White
+    3300014: Footstool 01 Yellow
+    3300016: Sofa 01 Black
+    3300018: Sofa 01 Blue
+    3300020: Sofa 01 Brown
+    3300022: Sofa 01 Green
+    3300024: Sofa 01 Grey
+    3300026: Sofa 01 Red
+    3300028: Sofa 01 White
+    3300030: Sofa 01 Yellow
+    3300032: Sofa 02 Black
+    3300034: Sofa 02 Blue
+    3300036: Sofa 02 Brown
+    3300038: Sofa 02 Green
+    3300040: Sofa 02 Grey
+    3300042: Sofa 02 Red
+    3300044: Sofa 02 White
+    3300046: Sofa 02 Yellow
+    3300048: Sofa 03 Black
+    3300050: Sofa 03 Blue
+    3300052: Sofa 03 Brown
+    3300054: Sofa 03 Green
+    3300056: Sofa 03 Grey
+    3300058: Sofa 03 Red
+    3300060: Sofa 03 s
+    3300062: Sofa 03 White
+    3300064: Sofa 03 Yellow
+    4300000: Sofa 03 Green
+    4300002: Sofa 03 Red
+    4300004: Sofa 03 Yellow
+    4300006: Sofa 03 Brown
+    4300008: Sofa 03 Black
+    4300010: Sofa 03 Grey
+    4300012: Sofa 03 White
+    4300014: Sofa 03 Blue
+    4300016: Sofa 02 Green
+    4300018: Sofa 01 Green
+    4300020: Footstool 01 Green
+    4300022: Footstool 01 Red
+    4300024: Sofa 01 Red
+    4300026: Sofa 02 Red
+    4300028: Sofa 02 Yellow
+    4300030: Sofa 01 Yellow
+    4300032: Footstool 01 Yellow
+    4300034: Footstool 01 Brown
+    4300036: Sofa 01 Brown
+    4300038: Sofa 02 Brown
+    4300040: Sofa 02 Black
+    4300042: Sofa 01 Black
+    4300044: Footstool 01 Black
+    4300046: Footstool 01 Grey
+    4300048: Sofa 01 Grey
+    4300050: Sofa 02 Grey
+    4300052: Sofa 02 White
+    4300054: Sofa 01 White
+    4300056: Footstool 01 White
+    4300058: Footstool 01 Blue
+    4300060: Sofa 01 Blue
+    4300062: Sofa 02 Blue
+    4300064: Sofa 03 s
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 11
+    secondaryUVAreaDistortion: 12
+    secondaryUVHardAngle: 80
+    secondaryUVPackMargin: 22
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

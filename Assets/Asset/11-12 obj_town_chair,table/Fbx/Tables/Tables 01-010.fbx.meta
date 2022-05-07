@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 144d1275691a6c949804ec0381f7f4c6
+timeCreated: 1571564164
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Table 01 Brown
+    100002: Table 01 Dark Brown
+    100004: Table 01 Light Wood
+    100006: Table 01 White
+    100008: Table 010 Brown
+    100010: Table 010 Dark Brown
+    100012: Table 010 Light Wood
+    100014: Table 010 White
+    100016: Table 02 Brown
+    100018: Table 02 Dark Brown
+    100020: Table 02 Light Wood
+    100022: Table 02 White
+    100024: Table 03 Brown
+    100026: Table 03 Dark Brown
+    100028: Table 03 Light Wood
+    100030: Table 03 White
+    100032: Table 04 Brown
+    100034: Table 04 Dark Brown
+    100036: Table 04 Light Wood
+    100038: Table 04 White
+    100040: Table 05 Brown
+    100042: Table 05 Dark Brown
+    100044: Table 05 Light Wood
+    100046: Table 05 White
+    100048: Table 06 Brown
+    100050: Table 06 Dark Brown
+    100052: Table 06 Light Wood
+    100054: Table 06 White
+    100056: Table 07 Brown
+    100058: Table 07 Dark Brown
+    100060: Table 07 Light Wood
+    100062: Table 07 White
+    100064: Table 08 Brown
+    100066: Table 08 Dark Brown
+    100068: Table 08 Light Wood
+    100070: Table 08 White
+    100072: Table 09 Brown
+    100074: Table 09 Dark Brown
+    100076: Table 09 Light Wood
+    100078: Table 09 White
+    100080: //RootNode
+    400000: Table 01 Brown
+    400002: Table 01 Dark Brown
+    400004: Table 01 Light Wood
+    400006: Table 01 White
+    400008: Table 010 Brown
+    400010: Table 010 Dark Brown
+    400012: Table 010 Light Wood
+    400014: Table 010 White
+    400016: Table 02 Brown
+    400018: Table 02 Dark Brown
+    400020: Table 02 Light Wood
+    400022: Table 02 White
+    400024: Table 03 Brown
+    400026: Table 03 Dark Brown
+    400028: Table 03 Light Wood
+    400030: Table 03 White
+    400032: Table 04 Brown
+    400034: Table 04 Dark Brown
+    400036: Table 04 Light Wood
+    400038: Table 04 White
+    400040: Table 05 Brown
+    400042: Table 05 Dark Brown
+    400044: Table 05 Light Wood
+    400046: Table 05 White
+    400048: Table 06 Brown
+    400050: Table 06 Dark Brown
+    400052: Table 06 Light Wood
+    400054: Table 06 White
+    400056: Table 07 Brown
+    400058: Table 07 Dark Brown
+    400060: Table 07 Light Wood
+    400062: Table 07 White
+    400064: Table 08 Brown
+    400066: Table 08 Dark Brown
+    400068: Table 08 Light Wood
+    400070: Table 08 White
+    400072: Table 09 Brown
+    400074: Table 09 Dark Brown
+    400076: Table 09 Light Wood
+    400078: Table 09 White
+    400080: //RootNode
+    2300000: Table 01 Brown
+    2300002: Table 01 Dark Brown
+    2300004: Table 01 Light Wood
+    2300006: Table 01 White
+    2300008: Table 010 Brown
+    2300010: Table 010 Dark Brown
+    2300012: Table 010 Light Wood
+    2300014: Table 010 White
+    2300016: Table 02 Brown
+    2300018: Table 02 Dark Brown
+    2300020: Table 02 Light Wood
+    2300022: Table 02 White
+    2300024: Table 03 Brown
+    2300026: Table 03 Dark Brown
+    2300028: Table 03 Light Wood
+    2300030: Table 03 White
+    2300032: Table 04 Brown
+    2300034: Table 04 Dark Brown
+    2300036: Table 04 Light Wood
+    2300038: Table 04 White
+    2300040: Table 05 Brown
+    2300042: Table 05 Dark Brown
+    2300044: Table 05 Light Wood
+    2300046: Table 05 White
+    2300048: Table 06 Brown
+    2300050: Table 06 Dark Brown
+    2300052: Table 06 Light Wood
+    2300054: Table 06 White
+    2300056: Table 07 Brown
+    2300058: Table 07 Dark Brown
+    2300060: Table 07 Light Wood
+    2300062: Table 07 White
+    2300064: Table 08 Brown
+    2300066: Table 08 Dark Brown
+    2300068: Table 08 Light Wood
+    2300070: Table 08 White
+    2300072: Table 09 Brown
+    2300074: Table 09 Dark Brown
+    2300076: Table 09 Light Wood
+    2300078: Table 09 White
+    3300000: Table 01 Brown
+    3300002: Table 01 Dark Brown
+    3300004: Table 01 Light Wood
+    3300006: Table 01 White
+    3300008: Table 010 Brown
+    3300010: Table 010 Dark Brown
+    3300012: Table 010 Light Wood
+    3300014: Table 010 White
+    3300016: Table 02 Brown
+    3300018: Table 02 Dark Brown
+    3300020: Table 02 Light Wood
+    3300022: Table 02 White
+    3300024: Table 03 Brown
+    3300026: Table 03 Dark Brown
+    3300028: Table 03 Light Wood
+    3300030: Table 03 White
+    3300032: Table 04 Brown
+    3300034: Table 04 Dark Brown
+    3300036: Table 04 Light Wood
+    3300038: Table 04 White
+    3300040: Table 05 Brown
+    3300042: Table 05 Dark Brown
+    3300044: Table 05 Light Wood
+    3300046: Table 05 White
+    3300048: Table 06 Brown
+    3300050: Table 06 Dark Brown
+    3300052: Table 06 Light Wood
+    3300054: Table 06 White
+    3300056: Table 07 Brown
+    3300058: Table 07 Dark Brown
+    3300060: Table 07 Light Wood
+    3300062: Table 07 White
+    3300064: Table 08 Brown
+    3300066: Table 08 Dark Brown
+    3300068: Table 08 Light Wood
+    3300070: Table 08 White
+    3300072: Table 09 Brown
+    3300074: Table 09 Dark Brown
+    3300076: Table 09 Light Wood
+    3300078: Table 09 White
+    4300000: Table 05 White
+    4300002: Table 02 White
+    4300004: Table 03 White
+    4300006: Table 01 White
+    4300008: Table 04 White
+    4300010: Table 06 White
+    4300012: Table 08 White
+    4300014: Table 07 White
+    4300016: Table 09 White
+    4300018: Table 010 White
+    4300020: Table 010 Light Wood
+    4300022: Table 09 Light Wood
+    4300024: Table 07 Light Wood
+    4300026: Table 08 Light Wood
+    4300028: Table 06 Light Wood
+    4300030: Table 04 Light Wood
+    4300032: Table 01 Light Wood
+    4300034: Table 03 Light Wood
+    4300036: Table 02 Light Wood
+    4300038: Table 05 Light Wood
+    4300040: Table 05 Dark Brown
+    4300042: Table 02 Dark Brown
+    4300044: Table 03 Dark Brown
+    4300046: Table 01 Dark Brown
+    4300048: Table 04 Dark Brown
+    4300050: Table 06 Dark Brown
+    4300052: Table 08 Dark Brown
+    4300054: Table 07 Dark Brown
+    4300056: Table 09 Dark Brown
+    4300058: Table 010 Dark Brown
+    4300060: Table 010 Brown
+    4300062: Table 09 Brown
+    4300064: Table 07 Brown
+    4300066: Table 08 Brown
+    4300068: Table 06 Brown
+    4300070: Table 04 Brown
+    4300072: Table 01 Brown
+    4300074: Table 03 Brown
+    4300076: Table 02 Brown
+    4300078: Table 05 Brown
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

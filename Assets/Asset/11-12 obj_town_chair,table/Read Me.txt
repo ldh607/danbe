@@ -1,0 +1,14 @@
+Hello and thank you for purchasing Low Poly Furniture package.
+
+There are 295 prefabs. All models use one atlas texture.
+For the example scenes the lighting is set to Realtime Direct and Baked indirect .
+
+Texture is 512*512 png
+
+Update 1.1
+- Package updated to Universal Rendering Pipeline.
+- Example scenes have baked indirect and realtime directional light.
+
+
+For support contact me at:
+a3deve@gmail.com
