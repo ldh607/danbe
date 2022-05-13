@@ -218,9 +218,9 @@ Shader "Cartoon FX/Remaster/Particle Screen Distortion"
 				#pragma multi_compile CFXR_URP
 				
 				// Using the same keywords as Unity's Standard Particle shader to minimize project-wide keyword usage
-				#pragma shader_feature _ _FADING_ON
-				#pragma shader_feature _ _ALPHATEST_ON
-				#pragma shader_feature _ _DEBUG_VISUALIZE_DISTORTION
+				#pragma shader_feature_local _ _FADING_ON
+				#pragma shader_feature_local _ _ALPHATEST_ON
+				#pragma shader_feature_local _ _DEBUG_VISUALIZE_DISTORTION
 
 				ENDCG
 			}
@@ -247,9 +247,9 @@ Shader "Cartoon FX/Remaster/Particle Screen Distortion"
 				#pragma multi_compile DISABLE_SOFT_PARTICLES
 				
 				// Using the same keywords as Unity's Standard Particle shader to minimize project-wide keyword usage
-				#pragma shader_feature _ _FADING_ON
-				#pragma shader_feature _ _ALPHATEST_ON
-				#pragma shader_feature _ _DEBUG_VISUALIZE_DISTORTION
+				#pragma shader_feature_local _ _FADING_ON
+				#pragma shader_feature_local _ _ALPHATEST_ON
+				#pragma shader_feature_local _ _DEBUG_VISUALIZE_DISTORTION
 
 
 				ENDCG
@@ -286,9 +286,9 @@ Shader "Cartoon FX/Remaster/Particle Screen Distortion"
 				//#pragma multi_compile SHADOWS_SCREEN
 				
 				// Using the same keywords as Unity's Standard Particle shader to minimize project-wide keyword usage
-				#pragma shader_feature _ _FADING_ON
-				#pragma shader_feature _ _ALPHATEST_ON
-				#pragma shader_feature _ _DEBUG_VISUALIZE_DISTORTION
+				#pragma shader_feature_local _ _FADING_ON
+				#pragma shader_feature_local _ _ALPHATEST_ON
+				#pragma shader_feature_local _ _DEBUG_VISUALIZE_DISTORTION
 
 				ENDCG
 			}

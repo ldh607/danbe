@@ -1,18 +1,16 @@
 {
     "name": "CFXRDemoEditor",
-    "rootNamespace": "",
     "references": [
         "CFXRDemo"
     ],
-    "includePlatforms": [],
-    "excludePlatforms": [
+    "optionalUnityReferences": [],
+    "includePlatforms": [
         "Editor"
     ],
+    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": [],
-    "noEngineReferences": false
+    "defineConstraints": []
 }
